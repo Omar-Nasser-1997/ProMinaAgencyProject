@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-<img src='https://raw.githubusercontent.com/Omar-Nasser-1997/ProMinaAgencyProject/02d76a00a314ae8dc96a3d7db1356b3e25be7868/assets/2.svg' width='100%' />
+<img src='https://raw.githubusercontent.com/Omar-Nasser-1997/ProMinaAgencyProject/02d76a00a314ae8dc96a3d7db1356b3e25be7868/assets/2.svg' width='100%' height='10px' />
 
 This project is a starting point for a Flutter application.
 
