@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+you can watch the video in this path: ProMinaAgencyProject/assets/Screen Recording 2022-09-12 at 5.24.53 PM.mov
+
 <img src='https://raw.githubusercontent.com/Omar-Nasser-1997/ProMinaAgencyProject/master/assets/Screen%20Shot%202022-09-12%20at%205.16.02%20PM.png' width='50%'/>
 <img src='https://raw.githubusercontent.com/Omar-Nasser-1997/ProMinaAgencyProject/master/assets/Screen%20Shot%202022-09-12%20at%205.16.16%20PM.png' width='50%'/>
 <img src='https://raw.githubusercontent.com/Omar-Nasser-1997/ProMinaAgencyProject/master/assets/Screen%20Shot%202022-09-12%20at%205.16.27%20PM.png' width='50%'/>
