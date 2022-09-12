@@ -17,7 +17,7 @@ class _DownListWidgetState extends State<DownListWidget> {
     Size size = MediaQuery.of(context).size;
     return  Container(
       width: double.infinity,
-      height: size.height - 365,
+      height: size.height - 375,
       decoration: const BoxDecoration(
           color: Color.fromRGBO(90, 153, 219, 1),
           borderRadius: BorderRadius.only(

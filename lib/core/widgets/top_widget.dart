@@ -22,7 +22,7 @@ class _TopWidgetState extends State<TopWidget> {
           alignment: Alignment.topCenter,
           children: [
             Padding(
-              padding: const EdgeInsets.only(top: 20),
+              padding: const EdgeInsets.only(top: 33),
               child: SizedBox(
                 height: 380,
                 width: double.infinity,
@@ -34,7 +34,7 @@ class _TopWidgetState extends State<TopWidget> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.only(left: 20, right: 20),
+              padding: const EdgeInsets.only(left: 20, right: 20,top: 20),
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.start,
                 crossAxisAlignment: CrossAxisAlignment.start,
