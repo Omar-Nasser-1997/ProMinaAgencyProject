@@ -1,0 +1,4 @@
+#Mon Sep 12 16:18:15 AST 2022
+base.0=/Users/omarnasser/StudioProjects/untitled22/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

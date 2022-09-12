@@ -1,0 +1,4 @@
+#Mon Sep 12 16:19:29 AST 2022
+base.0=/Users/omarnasser/StudioProjects/untitled22/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
